@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LOADING</title>
+<meta http-equiv="Refresh" content="5; url=https://shaemac.wixsite.com/mysite-1/
+</head>
+<body>
+
+<h1>LOADING</h1>
+<p>https://shaemac.wixsite.com/mysite-1/</p>
+
+</body>
+</html>
+
